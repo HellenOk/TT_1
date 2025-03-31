@@ -60,5 +60,10 @@ Deposits on the activity tab in the Type column, filter by the Deposit value.
         GROUP BY es.`id_type`
         ORDER BY %_писем DESC;
 
+###  Excel_Task_1
+
+![image](https://github.com/HellenOk/TT_1/blob/main/Excel_Task_1.png)
+
+
 
 
