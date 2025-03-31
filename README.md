@@ -21,8 +21,8 @@ This is a technical task for a data analyst, consisting of two parts: working wi
 
 The "call log" tab shows the work of operators. The operator and the player called are indicated. 
 The Call field logs the attempted call. If the cell is empty, there was no call, 0 - no call, 1 - call.
-The "Activity" tab shows the activity of players:
- - player, date of activity, type of activity, amount. We consider that all activity was after the events on the call log.
+The "Activity" tab shows the activity of players:player, date of activity, type of activity, amount.
+We consider that all activity was after the events on the call log.
 It is required to summarize statistics in the context of each operator, how many calls were made, how many were successful dialers. 
 Also, how many unique players made deposits after the call from the operator and the amount of deposits after the call.
 Deposits on the activity tab in the Type column, filter by the Deposit value.
