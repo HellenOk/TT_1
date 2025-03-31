@@ -1,4 +1,16 @@
 # TT_1
+
+## Description
+This is a technical task for a data analyst, consisting of two parts: working with SQL and two tasks in EXCEL.
+
+<details>
+         
+  <summary>💡 SQL task </summary>
+- 1. Number of new user registrations by day by country groups
+- 2. CTR of different types of emails by day
+- 3. % of emails clicked within 10 minutes after sending, by types of emails in total for the last 7 days
+</details>
+
 ![image](https://github.com/user-attachments/assets/3f15336e-42c8-46e6-bab3-0ea2173a05e9)
 
 Потрібно написати SQL скріпти для того, чтобы:
