@@ -6,6 +6,7 @@ This is a technical task for a data analyst, consisting of two parts: working wi
 <details>
          
   <summary>💡 SQL task </summary>
+  
          - Number of new user registrations by day by country groups
          
          - CTR of different types of emails by day
