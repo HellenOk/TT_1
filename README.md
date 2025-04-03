@@ -64,6 +64,7 @@ Deposits on the activity tab in the Type column, filter by the Deposit value.
 
 ![image](https://github.com/HellenOk/TT_1/blob/main/Excel_Task_1.png)
 
+###  Excel_Task_2
 
-
+![image](https://github.com/HellenOk/TT_1/blob/main/Excel_Task_2.png)
 
