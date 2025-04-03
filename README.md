@@ -30,7 +30,7 @@ Deposits on the activity tab in the Type column, filter by the Deposit value.
 </details>
 
 <details>
-  <summary>💡 Excel task_1  </summary>
+  <summary>💡 Excel task_2  </summary>
 
 Let's make the assumption that it's Friday, 07/28/2017. The activity2 tab has a list of player activities. Monday through Thursday. Date, amount, type of activity.  Alerts are scheduled to be sent on Friday to players who have made deposits during the week. Players will be offered bonuses, which depend on how much a person has paid over the past days. The Bonus tab shows the amount of the bonus.
 
